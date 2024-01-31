@@ -1,2 +1,2 @@
 # FastAPI-Testing-Learning
-This is my first repo and its just aa test.
+This is my first repo, and it's just a test.
